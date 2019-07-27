@@ -1,0 +1,127 @@
+{
+  "main": {
+    "name":"Sai Ravi Teja Avanigadda",
+    "occupation":"Student",
+    "description":"Presently pursing technical diploma course in Mobile Application Development. ",
+    "image":"profilepic.jpg",
+    "bio":"Completed Bachelor's degree in Computer Science and Engineering with distinction. Worked as a part of Research team during under graduation, Hands on experience on IOT, Web development and Embedded systems. ",
+    "contactmessage":"",
+    "email": "ravi.avanigadda95@gmail.com",
+    "phone": "438-870-2332",
+    "address":{
+      "street":"7460 Kingsley #506",
+      "city":"Montreal",
+      "state":"Quebec",
+      "zip": "H4W1P3"
+    },
+    "website": "#",
+    "resumedownload":"https://drive.google.com/file/d/198rCATPY4KiU-5VbxwjTdO7wC1BVDVHt/view?usp=sharing",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/ravilion95",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/AvanigaddaSai",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/raviteja95/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/ravi_avanigadda/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/ravigamer95",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Ability to design wireframes in photoshop and build websites. Create and modify wordpress themes. Debug and fix errors.",
+    "education":[
+      {
+        "school":"KL University",
+        "degree":"Bachelor's in Computer science and Engineering",
+        "graduated":"Mar 2017",
+        "description":"Team Lead for several projects. Member of Research deparment and worked on technologies related to IOT and Web Development."
+      },
+      {
+        "school":"Cégep de la Gaspésie et des Îles",
+        "degree":"Diploma in Mobile Application Development",
+        "graduated":"Sep 2018 - present",
+        "description":"Working on Android and Java projects."
+      }
+    ],
+    "work":[
+      {
+        "company":"Hyundai Mobis Research and Development India",
+        "title":"Graduate Engineer Trainee ",
+        "years":"July 2017 - July 2018",
+        "description":"Hands on experience on development of Infotainment systems. Ability to debug and fix errors in kernel and firmware. M-testing on several modules. Developed interfaces for Infotainment Head Units"
+      }
+      ],
+    "skills":[
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"CSS3",
+        "level":"70%"
+      },
+      {
+        "name":"Photoshop",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"75%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"70%"
+      },
+      {
+        "name":"AngularJs",
+        "level":"60%"
+      },
+      {
+        "name":"MYSQL",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"75%"
+      },
+      {
+        "name":"C",
+        "level":"85%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Controlled Environment Agriculture using IOT",
+        "category":"IOT project on agriculture",
+        "image":"IOT.jpg",
+        "url":"https://www.youtube.com/watch?v=JaiN6swQj0M&t=7s"
+      },
+      {
+        "title":"Anime reviews application",
+        "category":"Android",
+        "image":"review.jpg",
+        "url":"https://github.com/ravigamer95/Movie_Review"
+      }
+    ]
+  }
+
+}
