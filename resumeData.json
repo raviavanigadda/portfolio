@@ -2,9 +2,9 @@
   "main": {
     "name":"Sai Ravi Teja Avanigadda",
     "occupation":"Student",
-    "description":"Presently pursing technical diploma course in Mobile Application Development. ",
+    "description":"pursing technical diploma course in  ",
     "image":"profilepic.jpg",
-    "bio":"Completed Bachelor's degree in Computer Science and Engineering with distinction. Worked as a part of Research team during under graduation, Hands on experience on IOT, Web development and Embedded systems. ",
+    "bio":"Completed Bachelor's degree in Computer Science and Engineering with distinction. Part of Research department during under-graduation. ",
     "contactmessage":"",
     "email": "ravi.avanigadda95@gmail.com",
     "phone": "438-870-2332",
@@ -48,24 +48,25 @@
     "skillmessage":"Ability to design wireframes in photoshop and build websites. Create and modify wordpress themes. Debug and fix errors.",
     "education":[
       {
-        "school":"KL University",
-        "degree":"Bachelor's in Computer science and Engineering",
-        "graduated":"Mar 2017",
-        "description":"Team Lead for several projects. Member of Research deparment and worked on technologies related to IOT and Web Development."
-      },
-      {
         "school":"Cégep de la Gaspésie et des Îles",
         "degree":"Diploma in Mobile Application Development",
         "graduated":"Sep 2018 - present",
         "description":"Working on Android and Java projects."
+      },
+      {
+        "school":"KL University",
+        "degree":"Bachelor's in Computer science and Engineering",
+        "graduated":"Mar 2017",
+        "description":"Team Lead for several projects. Member of Research deparment and worked on projects related to IOT and Web Development."
       }
+      
     ],
     "work":[
       {
         "company":"Hyundai Mobis Research and Development India",
         "title":"Graduate Engineer Trainee ",
         "years":"July 2017 - July 2018",
-        "description":"Hands on experience on development of Infotainment systems. Ability to debug and fix errors in kernel and firmware. M-testing on several modules. Developed interfaces for Infotainment Head Units"
+        "description":"Worked on development of Infotainment systems. Ability to debug and fix errors in kernel and firmware code. M-testing(model) on several automotive modules. Developed interfaces for Head Units"
       }
       ],
     "skills":[
@@ -100,6 +101,10 @@
       {
         "name":"JAVA",
         "level":"75%"
+      },
+      {
+        "name":"Android",
+        "level":"65%"
       },
       {
         "name":"C",
